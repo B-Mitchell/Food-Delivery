@@ -93,7 +93,7 @@ const HomePage = () => {
       <section className="max-w-6xl mx-auto px-4 py-8">
         <h2 className="text-3xl font-bold mb-4">What Our Customers Say</h2>
         <blockquote className="border-l-4 border-blue-600 pl-4">
-          <p>{`!`}The best food delivery service I have ever used! Highly recommend{`!"`}</p>
+          <p>The best food delivery service I have ever used! Highly recommend{`!"`}</p>
           <footer className="text-gray-600">— Happy Customer</footer>
         </blockquote>
       </section>
