@@ -197,7 +197,7 @@ const MealsPage = () => {
                 <h3 className="text-xl font-bold mb-2">{meal.name}</h3>
                 <p className="text-gray-600 mb-2">{meal.description}</p>
                 <p className="text-lg font-semibold text-blue-600">Price: ${meal.price}</p>
-                <p className="text-sm text-gray-500">Vendor: {meal.business_name}</p> 
+                <p className="text-sm text-gray-500">Vendor: {meal.businessName}</p> 
               </div>
             </div>
           ))
